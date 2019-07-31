@@ -2,7 +2,7 @@ package com.org.corejava;
 
 class DefaultConstructor{  
 	//creating a default constructor  
-	DefaultConstructor(){System.out.println("Bike is created");}  
+	DefaultConstructor(){System.out.println("Bike is created only");}  
 	//main method  
 	public static void main(String args[]){  
 	//calling a default constructor  
